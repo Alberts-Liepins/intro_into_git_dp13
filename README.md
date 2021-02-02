@@ -19,8 +19,35 @@ git config --global user.email "you@example.com"    # nomaina ēpastu
 git config --global user.name "Your Name"           #nomaina vārdu
 ```
 
-# Status
+## Status
 Ir labi
 
-# Pašreizējais datums
+## Pašreizējais datums
 02.02.2021
+
+---
+
+### Kārtots saraksts
+1. priekšmets1
+2. priekšmets2
+3. priekšmets3
+
+---
+
+### Nekārtots saraksts
+- priekšmets1
+- priekšmets2
+- priekšmets3
+
+---
+
+### Koda sadaļa
+`print("Hello, world!")`
+
+---
+
+### Veicamo darbu saraksts
+
+- [x] Sarakstīt markdown syntax piemērus
+- [x] publicēt github
+- [ ] iegūt stipendiju lielāku par 15 eiro
