@@ -21,3 +21,6 @@ git config --global user.name "Your Name"           #nomaina vārdu
 
 # Status
 Ir labi
+
+# Pašreizējais datums
+02.02.2021
