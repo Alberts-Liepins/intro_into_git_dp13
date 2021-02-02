@@ -52,6 +52,8 @@ Ir labi
 - [x] publicēt github
 - [ ] iegūt stipendiju lielāku par 15 eiro
 
+---
+
 ### Datu table
 
 | Vārds | Vecums |
