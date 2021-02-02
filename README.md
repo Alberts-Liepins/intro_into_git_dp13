@@ -25,6 +25,20 @@ Ir labi
 ## Pašreizējais datums
 02.02.2021
 
+## Parastie syntax
+
+**bold texts**
+
+~~Teksta pārsvītrošana~~
+
+*Slīpais teksts*
+
+> blockquote
+
+[Youtube](https://www.youtube.com)
+
+![vilciens](intro_into_git_dp13\Images\vilciens.jpg)
+
 ---
 
 ### Kārtots saraksts
@@ -61,3 +75,18 @@ Ir labi
 | Jānis | 17 |
 | Džons | 31 |
 | Alberts | 16 |
+
+---
+
+### Teksts ar "footnote"
+
+Teikums ar kājeni jeb "footnote". [^1]
+
+[^1]: Šī ir kājene jeb "footnote".
+
+---
+
+### Definīcijas
+
+Vārds
+: Vārda definīcija
