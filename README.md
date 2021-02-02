@@ -51,3 +51,11 @@ Ir labi
 - [x] Sarakstīt markdown syntax piemērus
 - [x] publicēt github
 - [ ] iegūt stipendiju lielāku par 15 eiro
+
+### Datu table
+
+| Vārds | Vecums |
+| ----------- | ----------- |
+| Jānis | 17 |
+| Džons | 31 |
+| Alberts | 16 |
